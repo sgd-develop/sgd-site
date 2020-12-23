@@ -1,13 +1,12 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Titulo de para o site
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Uma descrição legal do que é o SGD, pode ser uma oportunidade para solicitar o cadastro
   action: # action button is optional
-    label: Find Out More
-    url: '#about'
+    label: Cadastra-se
+    url: 'http://sgdd-com-br.umbler.net/register'
 
 
 sections:
